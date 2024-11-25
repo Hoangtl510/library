@@ -1,0 +1,17 @@
+:root {
+    --sh-label-font-size: 14px;
+    --sh-height: 44px;
+    --sh-label-font-weight: 400;
+
+    
+    --sh-caret-color: #18a058;
+    --sh-asterisk-color: #d03050;
+    --sh-text-color: rgb(51, 54, 57);
+    --sn-label-text-color: rgb(31, 34, 37);
+    --sh-placeholder-color: rgba(194, 194, 194, 1);
+    --sh-feedback-text-color-warning: #f0a020;
+    --sh-feedback-text-color-error: #d03050;
+
+    --sh-height: 34px;
+    --sh-border: 1px solid rgb(224, 224, 230);
+}
